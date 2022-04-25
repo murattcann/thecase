@@ -19,10 +19,6 @@ $cabinet = new Cabinet();
  * -> SENARYO 4 - Raflar dolu iken birer tane almak  
  */
 
-
- //SENARYO 1 
- 
- 
  echo "<br>--------------------- SENARYO 1 --------------------- <br>";
  echo  $cabinet->cabinetStatus();
  echo "------------ <br>";
